@@ -16,23 +16,11 @@ Features
 
 ⚡ Automation Ready: Scripts can be extended for real-time dashboards or reporting.
 
-Tech Stack
-Languages: Python (Pandas, NumPy, Matplotlib/Seaborn)
-
 Data Source: CSV/Excel files containing sales records
 
-Tools: Jupyter Notebook / VS Code
 
 Getting Started
-Clone the repository:
 
-bash
-git clone https://github.com/your-username/SalesData.git
-Install dependencies:
-
-bash
-pip install -r requirements.txt
-Run the analysis scripts or open the Jupyter notebooks to explore the data.
 
 Use Cases
 Business owners tracking monthly/quarterly sales
@@ -40,6 +28,3 @@ Business owners tracking monthly/quarterly sales
 Students learning data analysis and visualization
 
 Analysts building dashboards for reporting
-
-Contribution
-Contributions are welcome! Feel free to fork the repo, submit issues, or open pull requests to improve the project.
